@@ -52,9 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimaaktherlima&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimaaktherlima&show_icons=true&locale=en&layout=compact" alt="tamimaaktherlima" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamimaaktherlima&show_icons=true&locale=en" alt="tamimaaktherlima" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazle-rabbi72&theme=radical" alt="GitHub Streak" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimaaktherlima&" alt="tamimaaktherlima" /></p>
 
