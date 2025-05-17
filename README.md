@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tamima Akther Lima</h1>
 <h3 align="center">🚀 Compettive Programmer || Problem-Solver || Web Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimaaktherlima&label=Profile%20views&color=0e75b6&style=flat" alt="engrsakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimaaktherlima&label=Profile%20views&color=0e75b6&style=flat" alt="tamimaaktherlima" /> </p>
 
 ## 🚀 About Me  
 🔹 🌟 I’m currently working on **full-stack web applications**.  
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack  
+## 🛠️ Languagese & Tools  
 
 <p align="start">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,6 +42,10 @@
 </p>
 
 
+## 🏆 Trophy 
+<p align="start"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimaaktherlima" alt="tamimaaktherlima" /></a> </p>
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -53,10 +57,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazle-rabbi72&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamimaaktherlima&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimaaktherlima&" alt="tamimaaktherlima" /></p>
 
 ## 🎯 Goals  
 👉 Improve my skills in **Django, React and JavaScript**  
