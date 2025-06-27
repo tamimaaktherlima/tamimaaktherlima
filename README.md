@@ -62,6 +62,16 @@
 </p>
 
 
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamimaaktherlima&theme=react&border_radius=10" width="100%">
+
+<br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamimaaktherlima&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
 
 
 
