@@ -57,7 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimaaktherlima&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tamimaaktherlima&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 
 <div align="center">
@@ -69,9 +71,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamimaaktherlima&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tamimaaktherlima&theme=dark" alt="GitHub Streak" /></a>
-</p>
+
 
 
 
